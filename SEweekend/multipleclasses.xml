@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestNG">
+  <test name="PetStore_User_Registration">
+    <classes>
+      <class name="TestNG.PetStore"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name="SwagLabs_Login_Logout">
+    <classes>
+      <class name="TestNG.SwagLabs"/>
+    </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
