@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="37484" started-at="2022-07-07T12:43:54Z" finished-at="2022-07-07T12:44:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="37484" started-at="2022-07-07T12:43:54Z" finished-at="2022-07-07T12:44:32Z">
+      <class name="scripts.LoginLogoutFlow">
+        <test-method status="PASS" signature="a_PageLoad()[pri:0, instance:scripts.LoginLogoutFlow@598067a5]" name="a_PageLoad" duration-ms="37362" started-at="2022-07-07T12:43:54Z" finished-at="2022-07-07T12:44:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a_PageLoad -->
+      </class> <!-- scripts.LoginLogoutFlow -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
